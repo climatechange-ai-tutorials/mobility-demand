@@ -28,6 +28,8 @@ All pull requests will be reviewed by members of the Climate Change AI Tutorials
   title={Predicting Mobility Demand from Urban Features},
   author={Rahman, Shafat and Klemmer, Konstantin and Wagner, Felix},
   year={2023},
+  organization={Climate Change AI},
+  type={Tutorial},
   howpublished={\url{https://https://github.com/climatechange-ai-tutorials/mobility-demand}}
 }
 ```
