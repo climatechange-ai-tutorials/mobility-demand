@@ -20,7 +20,7 @@ We estimate that this tutorial will take around 20 minutes to execute from end-t
 
 Please refer to these [GitHub instructions](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking) to open a pull request via the "fork and pull request" workflow. 
 
-All pull requests will be reviewed by members of the Climate Change AI Tutorials team for relevance, accuracy, and conciseness.
+Pull requests will be reviewed by members of the Climate Change AI Tutorials team for relevance, accuracy, and conciseness.
 
 ## Cite
 ```
