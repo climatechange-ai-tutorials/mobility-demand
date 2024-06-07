@@ -22,7 +22,16 @@ Please refer to these [GitHub instructions](https://docs.github.com/en/get-start
 
 Pull requests will be reviewed by members of the Climate Change AI Tutorials team for relevance, accuracy, and conciseness.
 
+## License
+Usage of this tutorial is subject to the MIT License.
+
 ## Cite
+
+### Plain Text
+Rahman, S., Klemmer, K., & Wagner, F. (2023). Predicting Mobility Demand from Urban Features [Tutorial]. Climate Change AI. https://doi.org/10.5281/zenodo.11522391
+
+### BibTeX
+
 ```
 @misc{rahman2023predicting,
   title={Predicting Mobility Demand from Urban Features},
@@ -30,6 +39,7 @@ Pull requests will be reviewed by members of the Climate Change AI Tutorials tea
   year={2023},
   organization={Climate Change AI},
   type={Tutorial},
+  doi={https://doi.org/10.5281/zenodo.11522391},
   howpublished={\url{https://https://github.com/climatechange-ai-tutorials/mobility-demand}}
 }
 ```
