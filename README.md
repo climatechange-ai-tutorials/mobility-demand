@@ -19,13 +19,3 @@ We estimate that this tutorial will take around 20 minutes to execute from end-t
 ## Contribute to this tutorial
 
 Please see these [GitHub instructions](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking) to open a PR via the "fork and pull request" workflow. 
-
-## Cite
-```
-@misc{rahman2023predicting,
-  title={Predicting Mobility Demand from Urban Features},
-  author={Rahman, Shafat and Klemmer, Konstantin and Wagner, Felix},
-  year={2023},
-  howpublished={\url{https://climatechange.ai/tutorials?search=id:predicting-mobility-demand}}
-}
-```
