@@ -2,11 +2,11 @@
 Ensuring a shared bike is readily available can reduce demand for less climate-friendly transportation options. Explore how to model the relationship between bike usage and points of interest (POIs) to identify the best locations for new shared-bike stands.
 
 Author(s):
-* Konstantin Klemmer, Microsoft Research & CCAI, konstantin@climatechange.ai
-* Shafat Rahman, CCAI, shafatrahman@climatechange.ai
+* Konstantin Klemmer, Microsoft Research & Climate Change AI, konstantin@climatechange.ai
+* Shafat Rahman, Climate Change AI, shafatrahman@climatechange.ai
 * Felix Wagner, TU Berlin & Mercator Research Institute on Global Commons and Climate Change, wagner@mcc-berlin.net
 
-Originally presented at CCAI Summer School 2023.
+Originally presented at Climate Change AI Summer School 2023.
 
 ## Access this tutorial
 
@@ -18,4 +18,16 @@ We estimate that this tutorial will take around 20 minutes to execute from end-t
 
 ## Contribute to this tutorial
 
-Please see these [GitHub instructions](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking) to open a PR via the "fork and pull request" workflow. 
+Please refer to these [GitHub instructions](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking) to open a pull request via the "fork and pull request" workflow. 
+
+All pull requests will be reviewed by members of the Climate Change AI Tutorials team for relevance, accuracy, and conciseness.
+
+## Cite
+```
+@misc{rahman2023predicting,
+  title={Predicting Mobility Demand from Urban Features},
+  author={Rahman, Shafat and Klemmer, Konstantin and Wagner, Felix},
+  year={2023},
+  howpublished={\url{https://https://github.com/climatechange-ai-tutorials/mobility-demand}}
+}
+```
