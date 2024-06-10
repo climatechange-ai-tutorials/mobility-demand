@@ -44,6 +44,6 @@ Rahman, S., Klemmer, K., & Wagner, F. (2023). Predicting Mobility Demand from Ur
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11522391},
   booktitle={Climate Change AI Summer School 2023},
-  howpublished={\url{https://https://github.com/climatechange-ai-tutorials/mobility-demand}}
+  howpublished={\url{https://github.com/climatechange-ai-tutorials/mobility-demand}}
 }
 ```
