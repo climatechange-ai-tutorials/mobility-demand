@@ -2,8 +2,8 @@
 Ensuring a shared bike is readily available can reduce demand for less climate-friendly transportation options. Explore how to model the relationship between bike usage and points of interest (POIs) to identify the best locations for new shared-bike stands.
 
 Author(s):
-* Konstantin Klemmer, Microsoft Research & Climate Change AI, konstantin@climatechange.ai
 * Shafat Rahman, Climate Change AI, shafatrahman@climatechange.ai
+* Konstantin Klemmer, Microsoft Research & Climate Change AI, konstantin@climatechange.ai
 * Felix Wagner, TU Berlin & Mercator Research Institute on Global Commons and Climate Change, wagner@mcc-berlin.net
 
 Originally presented at Climate Change AI Summer School 2023.
@@ -22,13 +22,16 @@ Please refer to these [GitHub instructions](https://docs.github.com/en/get-start
 
 Pull requests will be reviewed by members of the Climate Change AI Tutorials team for relevance, accuracy, and conciseness.
 
+## Climate Change AI Tutorials
+Check out the [tutorials page](https://www.climatechange.ai/tutorials?) on our website for a full list of tutorials demonstrating how AI can be used to tackle problems related to climate change.
+
 ## License
 Usage of this tutorial is subject to the MIT License.
 
 ## Cite
 
 ### Plain Text
-Rahman, S., Klemmer, K., & Wagner, F. (2023). Predicting Mobility Demand from Urban Features [Tutorial]. Climate Change AI. https://doi.org/10.5281/zenodo.11522391
+Rahman, S., Klemmer, K., & Wagner, F. (2023). Predicting Mobility Demand from Urban Features [Tutorial]. In Climate Change AI Summer School 2023. Climate Change AI. https://doi.org/10.5281/zenodo.11522391
 
 ### BibTeX
 
@@ -40,6 +43,7 @@ Rahman, S., Klemmer, K., & Wagner, F. (2023). Predicting Mobility Demand from Ur
   organization={Climate Change AI},
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11522391},
+  booktitle={Climate Change AI Summer School 2023},
   howpublished={\url{https://https://github.com/climatechange-ai-tutorials/mobility-demand}}
 }
 ```
