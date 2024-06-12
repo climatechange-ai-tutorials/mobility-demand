@@ -2,9 +2,10 @@
 Ensuring a shared bike is readily available can reduce demand for less climate-friendly transportation options. Explore how to model the relationship between bike usage and points of interest (POIs) to identify the best locations for new shared-bike stands.
 
 Author(s):
+* Felix Wagner, TU Berlin & Mercator Research Institute on Global Commons and Climate Change, wagner@mcc-berlin.net
+* Florian Nachtigall, TU Berlin & Mercator Research Institute on Global Commons and Climate Change, nachtigallflorian@gmail.com
 * Shafat Rahman, Climate Change AI, shafatrahman@climatechange.ai
 * Konstantin Klemmer, Microsoft Research & Climate Change AI, konstantin@climatechange.ai
-* Felix Wagner, TU Berlin & Mercator Research Institute on Global Commons and Climate Change, wagner@mcc-berlin.net
 
 Originally presented at Climate Change AI Summer School 2023.
 
@@ -31,19 +32,19 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Rahman, S., Klemmer, K., & Wagner, F. (2023). Predicting Mobility Demand from Urban Features [Tutorial]. In Climate Change AI Summer School 2023. Climate Change AI. https://doi.org/10.5281/zenodo.11522391
+Wagner, F., Nachtigall, F., Rahman, S., & Klemmer, K. (2024). Predicting Mobility Demand from Urban Features [Tutorial]. In Climate Change AI Summer School 2024. Climate Change AI. https://doi.org/10.5281/zenodo.11619223
 
 ### BibTeX
 
 ```
-@misc{rahman2023predicting,
+@misc{wagner2024predicting,
   title={Predicting Mobility Demand from Urban Features},
-  author={Rahman, Shafat and Klemmer, Konstantin and Wagner, Felix},
-  year={2023},
+  author={Wagner, Felix and Nachtigall, Florian and Rahman, Shafat and Klemmer, Konstantin},
+  year={2024},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11522391},
-  booktitle={Climate Change AI Summer School 2023},
+  doi={https://doi.org/10.5281/zenodo.11619223},
+  booktitle={Climate Change AI Summer School 2024},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/mobility-demand}}
 }
 ```
