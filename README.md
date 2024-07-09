@@ -3,7 +3,7 @@ Ensuring a shared bike is readily available can reduce demand for less climate-f
 
 Author(s):
 * Felix Wagner, Technische Universität Berlin & Mercator Research Institute on Global Commons and Climate Change, wagner@mcc-berlin.net
-* Florian Nachtigall, Technische Universität Berlin & Mercator Research Institute on Global Commons and Climate Change, nachtigallflorian@gmail.com
+* Florian Nachtigall, Technische Universität Berlin & Mercator Research Institute on Global Commons and Climate Change, nachtigall@tu-berlin.de
 * Shafat Rahman, Climate Change AI, shafatrahman@climatechange.ai
 * Konstantin Klemmer, Microsoft Research & Climate Change AI, konstantin@climatechange.ai
 
